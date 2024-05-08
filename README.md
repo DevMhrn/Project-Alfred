@@ -4,6 +4,8 @@
 
 ### By - Debashis Maharana | Project Manager - Sir Sai Movva | Engineering Lead - Sir Sai Movva
 
+[Video Link](https://drive.google.com/file/d/1LjYMGhkC2wwIHBxH6Q2lbADp58OFM9e8/view?usp=drive_link)
+
 ![Vision Intelligence & Voice Conversational AI](https://usmsystems.com/wp-content/uploads/2020/09/119226200_665027644365313_4663085420677003994_n-1-1.jpg)
 
 > **Alfred, the Ingenious Humanoid Robot, is poised to revolutionize the guest experience at the Innovation Lab of Scaler School of Technology. With an uncanny ability to perceive and comprehend the world around him, Alfred will captivate visitors with his seamless integration of cutting-edge technologies, redefining the boundaries of human-machine interaction.**
