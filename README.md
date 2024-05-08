@@ -10,7 +10,7 @@
 
 ## 🚀 Introduction
 
-- Alfred is a Humanoid Robot whose purpose is to greet people entering the Innovation Lab at Scaler School of Technology. In the under-construction Innovation Labs, we have a reception area which would be manned by a Robot.
+- Introducing **Alfred**, the **futuristic robot** welcoming guests to the Innovation Labs at **Scaler School of Technology**. With his cool look and smart brain, Alfred says hi to visitors and shows them around. He's not just a robot; he's a **symbol of cool ideas**, making people excited to be here.He's not just a receptionist; he's a symbol of innovation, sparking curiosity and inspiration in all who encounter him Get ready for the future, starting with a friendly wave from Alfred.
 
 ## 🎯 Problem Statement
 
