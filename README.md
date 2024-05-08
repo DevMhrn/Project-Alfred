@@ -126,6 +126,18 @@
 
 - **Business Logic and Decision Making**
    - Observing and detecting human or object approach, deciding on appropriate actions such as self-introduction or initiating conversations.
+        - **Hardware Setup**
+            - UltraSonic distance : sensors (distance measurement in robotics)
+            - IR Array Sensors :(to detect objects or people over a wider area)
+        - **Motion Detection & Distance Measurements** 
+             - Background Substraction : Uses **OpenCV** , **scikit-video**(Python provides tools for video processing)
+             - Frame Detection : Uses **OpenCV**, **scikit-image**(Python  for calculating the absolute difference between images)
+             - Optical Flow : Uses **OpenCV** , **PyFlow**(for optical flow estimation and motion analysis)
+        - **Alert and Notification** : For push notifications
+             - **Firebase cloud messaging**(FCM)
+             - **Amazon Simple Notification Service**(SNS)
+             - **SMTP as smtplib** (library to send emails to the admin or any person)
+               
    - Introducing itself to guests and engaging in contextual conversations about their work or interests.
    - Providing factual information and updates on events, news, and relevant topics.
    - Implementing logic for attentive listening, responding, and managing conversational flow.
